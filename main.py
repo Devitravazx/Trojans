@@ -179,7 +179,7 @@ ou seja nao e somente o site que e seguro os funcionarios tbm devem serem
 ...........╭╬╮ ◢ by:Jhaay
 -✶-╭▅▇□□█▇▆▅▄▃▂▁(╳)█╮
 .....╰═▃_▁∠════▔▔▔
-............╙O ╙O\033[0;0m \033[35m-Meu numero:https:/wa.me/+556781279282
+............╙O ╙O\033[0;0m \033[35m-Meu numero: Foi banido mais jaja tamo ai
 \033[0;0m
 ''')
 
